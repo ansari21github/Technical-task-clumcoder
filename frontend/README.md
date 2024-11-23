@@ -1,70 +1,82 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React 
 
-## Available Scripts
+# Certificate Management System
+A full-stack web application for managing certificate categories and their associated questions. 
 
-In the project directory, you can run:
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* React
 
-### `npm test`
+* MySQL
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Express JS
 
-### `npm run build`
+* NodeJS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* REST API
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Tailwind CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Axios
 
-### `npm run eject`
+* Netlify (for frontend deployment)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Render  (for backend api deployment )
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Install my-project with npm
 
-## Learn More
+```bash
+  npm install my-project
+  cd my-project
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Deployment Link
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ - **Frontend web**: https://certificate-management21.netlify.app/
 
-### Code Splitting
+- **Backend Api**: https://certificate-management-backend.onrender.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    
+### Screenshots
 
-### Analyzing the Bundle Size
+#### Landing Page - Desktop
+![Screenshot 2024-11-23 092946](https://github.com/user-attachments/assets/a647f94d-da58-4820-bd84-a9ac87dd3771)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### Landing Page - Mobile
+![Screenshot 2024-11-23 095238](https://github.com/user-attachments/assets/4d13c919-f91f-4cb3-a42c-6d6f62ce3133)
+![Screenshot 2024-11-23 095247](https://github.com/user-attachments/assets/8972f73f-9813-4175-8f32-50a6808f2d2c)
 
-### Making a Progressive Web App
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To deploy this project run
 
-### Advanced Configuration
+```bash
+  npm run dev
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Features
 
-### Deployment
+- Add certificate categories (master data).
+- Add questions to specific categories.
+- View all categories and their associated questions.
+- Responsive and user-friendly UI.
+- Backend API for managing master and detail tables.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## About the Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Hi! 👋 I'm [Md. Rashid Ansari], the developer of this project. I'm passionate about building efficient and scalable web applications.
+
+### Contact Information
+- **GitHub**: https://github.com/ansari21github?tab=repositories
+- **LinkedIn**: www.linkedin.com/in/rashid-ansari-b232aa273
+- **Email**: mahilrashid09@gmail.com
+
+Feel free to reach out if you have any questions or suggestions regarding this project!
+
